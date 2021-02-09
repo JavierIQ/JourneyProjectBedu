@@ -1,4 +1,4 @@
-import {CreateComponent} from './_createComponent.js';
+import {CreateComponent} from './_createComponent';
 
 if(!localStorage.getItem('myGoals')){
   welcome();
@@ -29,7 +29,7 @@ function welcome() {
           </section>
         </div>
       </section>
-      <img src="/web/img/Journey/Saly-12.svg" alt="" class="img-fluid welcomeMessage__img">
+      <img src="https://i.ibb.co/6R1btMC/Saly-1.png" alt="img" class="img-fluid welcomeMessage__img">
     </div>
   `;
   let newComponente = createComponent.componentStructure({
