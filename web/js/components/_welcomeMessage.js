@@ -22,10 +22,10 @@ function welcome() {
             <span class="d-inline d-md-block">en blanco</span> 
           </h1>
           <p class="welcomeMessage__description py-2">
-            ¿Estas listo para una aventura completamente nueva en donde podrás completar todas ttus metas de año nuevo, desde el primer dia de Erero hasta el ultimo de Diciembre? 
+            ¿Estas listo para una aventura completamente nueva en donde podrás completar todas tus metas de año nuevo, desde el primer día de Enero hasta el último de Diciembre? 
           </p>
           <section class="text-center text-md-start">
-            <a class="btn mb-4 welcomeMessage__button" href="#" role="button">Comienza aqui</a>
+            <a class="btn mb-4 welcomeMessage__button" href="#" role="button">Comienza aquí</a>
           </section>
         </div>
       </section>
